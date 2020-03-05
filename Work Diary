@@ -1,0 +1,48 @@
+Firsy day there! 
+Wednesday, 4 March 2020
+
+Three Main types of Application:
+  Native App
+    IOS: Object-C/Swift
+    Android: JAVA/Kotlin
+    Pros: 
+      1.Better user experience
+      2.can use all hardware and software APIs of the system,eg GPS, camera,mricophone,notification push;realize full potential of the system;
+    Cons:
+      1.Cost. Each mobile platform need to establish a team independentally. (ios, Android, WindowsPhone)
+      2.The native App uses underlying operatiing system language, all are complicated language.  Development and testing period are long. 
+      3.Native apps must be downloaded and installed to be used. User have to download and install again as long as there is new vision. 
+      If users don't update them, vendors have to support old vision for a long time. 
+  Web App
+    Pro: 
+      1.do not need to download and install, used by open browse, always the newest virsion. 
+      2.For developer, easy to develop, no app store approvel to publish
+    Cons:
+      1.Browsers provide limited API (camera, GPS,battery, Microphone). Most system hardware cannot be accessible through web. 
+      2.Webpages are played by browser, the performance is not as good as native app. 
+  Hybrid App
+    native app + web app
+    Pro:
+      1.Cross platform, save cost;
+      2.Flexibility. 
+      3.Easy to develop.
+    Cons:
+      1.Performance is worse than native app. 
+      2.Can't use the features which are only available on specific platform. (eg, Iphone home butter, Android back butter)
+
+
+Native Technology Stack 
+  IOS: XCODE: Object-C/Swift
+  Android: Android Stuido: JAVA/Kotlin
+Hybrid Technology Stack:
+    (Web + API Bridge) 
+  PhoneGap
+  Cordova
+  Ionic
+  Monaca
+  Framework7
+Cross-Platform Technology Stack
+    (UI layer)
+  React Native: JavaScript
+  Xamarin: c#
+  Flutter: Dart
