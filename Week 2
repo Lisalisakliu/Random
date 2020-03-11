@@ -1,0 +1,15 @@
+Mon Mar 9
+
+Cordova Installation Environment:
+
+- Git   (Windows PowerShell(Admin))
+  git --version
+- NodeJS
+  node -v
+- Cordova CLI 
+  npm install -g cordova (Windows PowerShell(Admin))
+  cordova -v
+- Java JDK
+  java -version
+- Android Studio Android SDK
+
